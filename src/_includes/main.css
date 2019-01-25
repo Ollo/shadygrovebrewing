@@ -5,13 +5,14 @@ body {
 
 .logo {
   margin: 1rem 0;
-  h1 {
-    line-height: 1.2;
-    margin: 0;
-  }
-  h4 {
-    margin: 0;
-  }
+}
+
+.title {
+  font-family: 'Rye', cursive;
+}
+
+.logo h1, .logo h4 {
+  margin: 0;
 }
 
 p {

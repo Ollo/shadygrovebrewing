@@ -6,7 +6,12 @@ module.exports = function(config) {
       output: "dist",
       includes: "_includes"
     },
-    templateFormats : ["njk", "md"],
+    passthroughFileCopy: true,
+    templateFormats : [
+      "njk", 
+      "md",
+      "css"
+    ],
     htmlTemplateEngine : "njk",
     markdownTemplateEngine : "njk"
   };
