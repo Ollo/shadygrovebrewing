@@ -1,4 +1,5 @@
 module.exports = function(config) {
+  config.setDynamicPermalinks(false);
 
   return {
     dir: {
@@ -16,7 +17,7 @@ module.exports = function(config) {
       "ico"
     ],
     htmlTemplateEngine : "njk",
-    markdownTemplateEngine : "njk"
+    markdownTemplateEngine : "njk",
   };
 
 };
