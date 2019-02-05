@@ -10,7 +10,10 @@ module.exports = function(config) {
     templateFormats : [
       "njk", 
       "md",
-      "css"
+      "css",
+      "png",
+      "jpg",
+      "ico"
     ],
     htmlTemplateEngine : "njk",
     markdownTemplateEngine : "njk"

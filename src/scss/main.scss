@@ -1,0 +1,55 @@
+@import './colors.scss';
+
+html {
+  font-size: 62.5%;
+  background: url('/images/hops.png') 100% $cream;
+}
+
+body {
+ font-family: 'Lora', serif; 
+ font-size: 18px;
+ font-size: 1.8rem;
+}
+
+a {
+  color: darken($bluebird, 10%);
+  text-decoration: dashed;
+  
+  &:hover {
+    color: darken($bluebird, 40%);
+  }
+}
+
+.wrapper {
+  background: lighten($cream, 2%);
+  width: 100%;
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 2px;
+  border: 4px solid darken($mint, 40%);
+}
+
+.logo {
+  margin: 1rem 0;
+}
+
+.title {
+  font-family: 'Rye', cursive;
+}
+
+.title {
+  a {
+    text-decoration: none;
+    color: darken($gray, 10%);
+    text-shadow: 2px 0 0 $charcoal, 4px 2px 0 white;
+  }
+}
+
+.logo h1, .logo h4 {
+  margin: 0;
+}
+
+p {
+  margin: 0 0 1rem;
+}
