@@ -17,13 +17,13 @@ During a short move back to St. Louis I was pulled into my first home brewing ex
 
 Once we moved to the Boulder area and bought our first home I have been scheming for a place to brew my own beer and this October I finally closed on a home with a garage and some extra cash to invest in a system. 
 
-I opted for the 5 gallon all grain brewing kit from Ss brewtech. It offered a fully stainless steel kettle, insulated mashtun and hlt and a temperature controlled conical fermenter. 
+I opted for the 5 gallon all grain brewing kit from Ss Brewtech. It offered a fully stainless steel kettle, insulated mashtun and hlt and a temperature controlled conical fermenter. 
 
-![Ssbrewtech 5 gallon all grain](https://cdn.shopify.com/s/files/1/0239/5187/products/5_gal_group_pic2_small_2000x_b86f305c-4d8c-4792-9bee-5a0ac5958911_2000x.jpg?v=1545428282)
+![Ss Brewtech 5 gallon all grain](https://cdn.shopify.com/s/files/1/0239/5187/products/5_gal_group_pic2_small_2000x_b86f305c-4d8c-4792-9bee-5a0ac5958911_2000x.jpg?v=1545428282)
 
-Its defintely a pretty expensive initial system but I really wanted something that would last a long time and would be able to keep clean as easy as possible. I also wanted to have a simple approach to temperature controlled fermentation and the FTSs system is fantastic with just a cooler of ice and a wall outlet. I've also purchased an old fridge to use as a kegerator and a single keg and co2 system for kegging which I plan to eventually outfit with taps and lines. Outside of what the kit provides I've added quick disconnects for my hoses, a small anvil pump and some hop baskets to keep particulate low. 
+Its definitely a pretty expensive initial system but I really wanted something that would last a long time and would be able to keep clean as easy as possible. I also wanted to have a simple approach to temperature controlled fermentation and the FTSs system is fantastic with just a cooler of ice and a wall outlet. I've also purchased an old fridge to use as a kegerator and a single keg and co2 system for kegging which I plan to eventually outfit with taps and lines. Outside of what the kit provides I've added quick disconnects for my hoses, a small anvil pump and some hop baskets to keep particulate low. 
 
 Outside of the primary system I've also invested in a small amount of bottling supplies for test batches and a couple of carboys to do more batches I can ferment and age in a crawl space. Someday a barrel would be fun.
 
-This is my first venture into being the head home brewer and I hope you enjoy reading along as I bring new homebrewers in to help and learn to love this hobby of brewing from grain to glass. Prost! 
+This is my first brewing venture as the head brewer and I hope you enjoy reading along as I bring new homebrewers in to help and learn to love this hobby of brewing from grain to glass. Prost! 
 
