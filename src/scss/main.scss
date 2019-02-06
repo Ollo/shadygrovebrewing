@@ -1,5 +1,10 @@
 @import './colors.scss';
 
+@mixin imgBordered() {
+  box-shadow: 2px 4px 4px $charcoal;
+  border: 4px solid white;
+}
+
 html {
   font-size: 62.5%;
   background: url('/images/hops-400.png') 100% $cream;
@@ -7,8 +12,8 @@ html {
 
 body {
  font-family: 'Lora', serif; 
- font-size: 18px;
  font-size: 1.8rem;
+ line-height: 1.8;
 }
 
 img {
@@ -25,7 +30,7 @@ a {
 }
 
 .wrapper {
-  background: $cream;
+  background: lighten($cream, 7%);
   max-width: 90rem;
   margin: 0 auto;
   padding: 4rem;
@@ -55,6 +60,18 @@ a {
   margin: 0;
 }
 
+.intro {
+  content: "";
+  clear: both;
+  display: table;
+  .profile {
+    @include imgBordered();
+    width: 25%;
+    float: left;
+    margin: 0 2rem 2rem 0;
+  }
+}
+
 .content {
  
   .post-image {
@@ -64,17 +81,44 @@ a {
     justify-content: center;
     
     img {
+      @include imgBordered();
       max-width: 70%;
       height: auto;
       margin: 2rem auto;
-      box-shadow: 2px 4px 4px $charcoal;
-      border: 4px solid white;
     }
   }
   
   p {
-    margin: 0 0 1rem;
+    margin: 0 0 3rem;
   }
   
+  dl {
+    font-family: sans-serif;
+    lettter-spacing: 2px;
+    max-width: 60%;
+    color: $charcoal;
+    text-shadow: 1px 0 0 $charcoal;
+    border: 2px dotted $charcoal;
+    background: lighten($cantelope, 10%);
+    padding: 2rem;
+    
+    dt {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    dd {
+      margin: 0 0 1rem;
+      color: lighten($gray, 40%);
+      
+    }
+  }
+}
+
+.listing {
+  li {
+    p {
+      margin-bottom: 1rem;
+    }
+  }
 }
 

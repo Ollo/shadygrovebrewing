@@ -5,10 +5,12 @@ title: Shady Grove Brewing Company
 
 ## Welcome to Shady Grove Brewing Company
 
-This is the home brewing blog of Joshua Ray.
-I run a 5 gallon stainless steel all grain single infusion mash system from Ss brewtech. I keg and bottle and plan to have hops and barley grown onsite. I've been an assistant brewer to friends for many years and this year I have embarked on my own brewing adventure.
+<section class='intro'>
+<img src='./images/profile.jpg' class='profile'/> My name is Joshua Ray and this is my personal home brewing blog.
+I'm a bit of a beer nerd and recently started homebrewing on a 5 gallon stainless steel all grain single infusion mash system from SsBrewtech in my garage. This site is an attempt to catalog all of my choices and experiments in building a brewing system, designing recipes and choosing and growing my own ingredients. I hope you find some of my experiments and learnings useful. Cheers 🍺
+</section>
 
-#### What follows are my brew day logs, recipes and equipment updates.
+---
 
 <ul class="listing">
 
