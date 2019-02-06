@@ -19,7 +19,9 @@ Once we moved to the Boulder area and bought our first home I have been scheming
 
 I opted for the 5 gallon all grain brewing kit from Ss Brewtech. It offered a fully stainless steel kettle, insulated mashtun and hlt and a temperature controlled conical fermenter. 
 
-![Ss Brewtech 5 gallon all grain](https://cdn.shopify.com/s/files/1/0239/5187/products/5_gal_group_pic2_small_2000x_b86f305c-4d8c-4792-9bee-5a0ac5958911_2000x.jpg?v=1545428282)
+<figure class="post-image">
+  <img alt="Ssbrewtech 5 gallon all grain" src="https://cdn.shopify.com/s/files/1/0239/5187/products/5_gal_group_pic2_small_2000x_b86f305c-4d8c-4792-9bee-5a0ac5958911_2000x.jpg?v=1545428282" />
+</figure>
 
 Its definitely a pretty expensive initial system but I really wanted something that would last a long time and would be able to keep clean as easy as possible. I also wanted to have a simple approach to temperature controlled fermentation and the FTSs system is fantastic with just a cooler of ice and a wall outlet. I've also purchased an old fridge to use as a kegerator and a single keg and co2 system for kegging which I plan to eventually outfit with taps and lines. Outside of what the kit provides I've added quick disconnects for my hoses, a small anvil pump and some hop baskets to keep particulate low. 
 

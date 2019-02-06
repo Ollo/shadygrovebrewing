@@ -22,7 +22,8 @@ date: 2018-11-03
 </dl> -->
 
 This was the inaugural brew on the new 5 gallon all grain system. 
-
 Recipe and post coming soon.
 
-<img src='gravity-setup.jpg' />
+<figure class="post-image">
+  <img src='gravity-setup.jpg' />
+<figure>

@@ -28,7 +28,7 @@ a {
   background: $cream;
   max-width: 90rem;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 4rem;
   border-radius: 2px;
   border: 4px solid $chocolate;
 }
@@ -39,9 +39,6 @@ a {
 
 .title {
   font-family: 'Rye', cursive;
-}
-
-.title {
   a {
     text-decoration: none;
     color: darken($mauve, 20%);
@@ -58,6 +55,26 @@ a {
   margin: 0;
 }
 
-p {
-  margin: 0 0 1rem;
+.content {
+ 
+  .post-image {
+    margin: 0 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    img {
+      max-width: 70%;
+      height: auto;
+      margin: 2rem auto;
+      box-shadow: 2px 4px 4px $charcoal;
+      border: 4px solid white;
+    }
+  }
+  
+  p {
+    margin: 0 0 1rem;
+  }
+  
 }
+
