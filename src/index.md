@@ -15,6 +15,7 @@ I run a 5 gallon stainless steel all grain single infusion mash system from Ss b
 {%- for page in collections.post -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a>
+    <p>{{ page.data.excerpt }}</p>
   </li>
 {%- endfor -%}
 </ul>

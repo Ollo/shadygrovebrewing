@@ -11,6 +11,10 @@ body {
  font-size: 1.8rem;
 }
 
+img {
+ width: 100%;
+}
+
 a {
   color: darken($bluebird, 10%);
   text-decoration: dashed;
@@ -21,13 +25,12 @@ a {
 }
 
 .wrapper {
-  background: lighten($cream, 2%);
-  width: 100%;
+  background: $cream;
   max-width: 90rem;
   margin: 0 auto;
   padding: 2rem;
   border-radius: 2px;
-  border: 4px solid darken($mint, 40%);
+  border: 4px solid $pumpkin;
 }
 
 .logo {
@@ -41,8 +44,13 @@ a {
 .title {
   a {
     text-decoration: none;
-    color: darken($gray, 10%);
-    text-shadow: 2px 0 0 $charcoal, 4px 2px 0 white;
+    color: darken($mauve, 20%);
+    text-shadow: 2px 0 0 $cream, 4px 2px 0 $pumpkin;
+    
+    &:hover {
+      color: $chocolate;
+      transition: all 1s;
+    }
   }
 }
 
