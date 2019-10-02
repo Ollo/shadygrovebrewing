@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/Ollo/shadygrovebrewing/issues"
   },
-  "homepage": "https://github.com/Ollo/shadygrovebrewing#readme",
+  "homepage": "https://shadygrovebrewing.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.7.1",
     "gulp": "^4.0.0",

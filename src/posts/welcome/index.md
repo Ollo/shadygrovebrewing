@@ -9,7 +9,7 @@ date: 2018-10-23
 #### Welcome to my adventure
 
 My beer story starts in my twenties when I started working in the bar and restaurant scene in Oklahoma City. 
-It was there that I had my first craft beer at tapworks which offered a huge selection of beers and styles I'd never heard of. From there I went on to try other new craft beers like Boulevard Wheat as they gained popularity and availability in an at the time slow to adapt blue law state. 
+It was there that I had my first craft beer at tapwerks which offered a huge selection of beers and styles I'd never heard of. From there I went on to try other new craft beers like Boulevard Wheat as they gained popularity and availability in an at the time slow to adapt blue law state. 
 
 After meeting and marrying my lovely wife and moving to Portland Oregon I learned quickly to love all the nuances styles of craft beer and dove head first into hoppy varieties while still enjoying a PBR while watching shows like a true hipster. It was here that I first attended and volunteered at a festivals, pouring tasters and trying all kinds of new styles of beer. I toured some of my first and favorite breweries, and really began pursuing craft beer as an interest.
 
@@ -20,7 +20,7 @@ Once we moved to the Boulder area and bought our first home I have been scheming
 I opted for the 5 gallon all grain brewing kit from Ss Brewtech. It offered a fully stainless steel kettle, insulated mashtun and hlt and a temperature controlled conical fermenter. 
 
 <figure class="post-image">
-  <img alt="Ssbrewtech 5 gallon all grain" src="https://cdn.shopify.com/s/files/1/0239/5187/products/5_gal_group_pic2_small_2000x_b86f305c-4d8c-4792-9bee-5a0ac5958911_2000x.jpg?v=1545428282" />
+  <img alt="Ssbrewtech 5 gallon all grain" src="the-rig.png" />
 </figure>
 
 Its definitely a pretty expensive initial system but I really wanted something that would last a long time and would be able to keep clean as easy as possible. I also wanted to have a simple approach to temperature controlled fermentation and the FTSs system is fantastic with just a cooler of ice and a wall outlet. I've also purchased an old fridge to use as a kegerator and a single keg and co2 system for kegging which I plan to eventually outfit with taps and lines. Outside of what the kit provides I've added quick disconnects for my hoses, a small anvil pump and some hop baskets to keep particulate low. 
