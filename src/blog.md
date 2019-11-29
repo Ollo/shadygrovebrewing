@@ -5,11 +5,11 @@ title: Shady Grove Brewing Company Blog
 
 ## Welcome to the Shady Grove Brewing Company Blog
 
-Here I  write posts about my homebrewing process, history and inspirations.
+Here are some thoughts about my homebrewing process, tools and equipment and inspirations.
 
 {%- for page in collections.post -%}
-  <li>
+  <article>
     <a href="{{ page.url }}">{{ page.data.title }}</a>
     <p>{{ page.data.excerpt }}</p>
-  </li>
+  </article>
 {%- endfor -%}

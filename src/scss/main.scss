@@ -9,6 +9,7 @@ html {
   font-size: 62.5%;
   background: url('/images/hops-400.png') 100% $cream;
   margin: 0;
+  height: 100%;
 }
 
 body {
@@ -33,7 +34,7 @@ a {
 
 .wrapper {
   max-width: 90rem;
-  margin: 0 auto 20px;
+  margin: 10px auto 20px;
 }
 
 .logo {
@@ -44,7 +45,7 @@ a {
   justify-content: center;
   
   &-image {
-   max-width: 400px;
+   max-width: 300px;
   }
 }
 
