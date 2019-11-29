@@ -49,10 +49,16 @@ a {
 }
 
 .navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  
   .nav-list {
     list-style: none;
-    display: flex;
-    justify-content: flex-start;
+    display: inline-flex;
+    align-self: flex-start;
     margin: 0 0 1rem ;
     padding: 0;
   }
@@ -72,6 +78,20 @@ a {
         color: $charcoal;
         transition: all 2s ease-out;
       }
+    }
+  }
+  .social {
+    display: inline-flex;
+    align-self: flex-end;
+    
+    a {
+      display: inline-block;
+    }
+    img {
+      width: 2.5rem;
+      padding: 2rem;
+      background: rgba($cream, 0.8);
+      border: 4px solid $chocolate;
     }
   }
 }

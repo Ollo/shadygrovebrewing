@@ -18,7 +18,7 @@ npm install
 
 To develop locally run:
 ```
-npm run dev
+npm run start
 ```
 
 This will run gulp watch and trigger a reload for sass changes as well as 

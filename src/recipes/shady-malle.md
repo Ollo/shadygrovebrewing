@@ -3,9 +3,10 @@ layout: layouts/layout.njk
 title: Shady Malle | Belgian Tripel
 tags: recipe
 excerpt: 'A classic Belgian Tripel modeled after WestMalle'
-
+date: 2018-11-01
 ---
 ## Shady Malle
+A classic Belgian Tripel modeled after WestMalle.
 
 <section class='recipe'>
 
