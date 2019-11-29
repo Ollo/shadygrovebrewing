@@ -1,9 +1,20 @@
-@import './colors.scss';
+$charcoal: #6A6A68;
+$gray: #B2B3B5;
+
+$mauve: #E2C0AA;
+$cream: #ECE5CE;
+$chocolate: #AD734C;
+$pumpkin: #F9982F;
+$cantelope: #F4B358;
+
+$bluebird: darken(#BBDAF6, 20%);
+
 
 @mixin imgBordered() {
   box-shadow: 2px 4px 4px $charcoal;
   border: 4px solid white;
 }
+
 
 html {
   font-size: 62.5%;
@@ -34,7 +45,11 @@ a {
 
 .wrapper {
   max-width: 90rem;
-  margin: 10px auto 20px;
+  margin: 20px auto 20px;
+  padding: 2rem;
+  background: rgba($cream, 0.7);
+  border-radius: 10px;
+  box-shadow: 0 0 8px 8px rgba(white, 0) inset;
 }
 
 .logo {
@@ -101,11 +116,12 @@ a {
   content: "";
   clear: both;
   display: table;
+  
   .profile {
     @include imgBordered();
     width: 25%;
     float: left;
-    margin: 0 2rem 2rem 0;
+    margin: 0 4rem 2rem 0;
   }
 }
 

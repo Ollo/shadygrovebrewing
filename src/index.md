@@ -1,6 +1,6 @@
 ---
 layout: layouts/layout.njk
-title: Shady Grove Brewing Company
+title: Welcome to Shady Grove Brewing Company
 ---
 
 ## Welcome to Shady Grove Brewing Company
