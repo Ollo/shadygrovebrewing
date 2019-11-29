@@ -9,15 +9,15 @@ date: 2018-10-23
 #### Welcome to my adventure
 
 My beer story starts in my twenties when I started working in the bar and restaurant scene in Oklahoma City. 
-It was there that I had my first craft beer at tapwerks which offered a huge selection of beers and styles I'd never heard of. From there I went on to try other new craft beers like Boulevard Wheat as they gained popularity and availability in an at the time slow to adapt blue law state. 
+It was there that I had my first craft beer at tapwerks which offered a huge selection of beers and styles I'd never heard of. From there I went on to try other new craft beers like Boulevard Wheat as they gained popularity and availability in the limited market of a blue law state. 
 
 After meeting and marrying my lovely wife and moving to Portland Oregon I learned quickly to love all the nuances styles of craft beer and dove head first into hoppy varieties while still enjoying a PBR while watching shows like a true hipster. It was here that I first attended and volunteered at a festivals, pouring tasters and trying all kinds of new styles of beer. I toured some of my first and favorite breweries, and really began pursuing craft beer as an interest.
 
 During a short move back to St. Louis I was pulled into my first home brewing experiences. I joined a group of the homebrew Dad's from the school my wife was teaching at and learned to brew via extract batches and basic brewing techniques like mashing, boiling, chilling etc. We even were able to partner with the pro brewers down at 4 Hands to brew a beer for the schools annual fundraiser where I first learned about vorlauf and sparging. I also was super fortunate to live next door to an avid all grain brewer that also kegged his own brews and was considering going pro. He taught me so much about the infusion mash process, hops, building recipes, and types of equipment and I'm forever grateful (Thanks Paul).
 
-Once we moved to the Boulder area and bought our first home I have been scheming for a place to brew my own beer and this October I finally closed on a home with a garage and some extra cash to invest in a system. 
+Once we moved to the Boulder area and bought our first home I have been scheming for a place to brew my own beer and this October we purchased a home with a garage and some extra cash to invest in a system. It was finally time. 
 
-I opted for the 5 gallon all grain brewing kit from Ss Brewtech. It offered a fully stainless steel kettle, insulated mashtun and hlt and a temperature controlled conical fermenter. 
+I opted for a 5 gallon all grain brewing kit from Ss Brewtech. It offered a fully stainless steel kettle, insulated mashtun and hlt and a temperature controlled conical fermenter. 
 
 <figure class="post-image">
   <img alt="Ssbrewtech 5 gallon all grain" src="the-rig.png" />

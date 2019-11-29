@@ -1,11 +1,11 @@
 ---
 layout: layouts/layout.njk
-title: Shady Malle | Belgian Tripel
+title: Test Flight
 tags: post
 excerpt: 'An expensive test flight that resulted in only about half the expected yield but had great flavor and received great feedback.'
 date: 2018-11-03
 ---
-## Shady Malle
+## The inaugural voyage
 
 So I had bought the 5 gallon system, had gone to boulder fermentation supply and bumbled through finding a recipe and ingredients with the help of a shop regular and now it was time to embark on my first solo brew day.
 
@@ -17,7 +17,16 @@ I picked up a wire rack from Lowes and snagged an Ikea desk that wasn't being us
 
 It was stressful...
 
-In the end I managed to produce about 3 gallons of beer which I kegged and served to my family when I hosted Thanksgiving. I also brought a growler to some friends to sample, everyone enjoyed it and had good things to say about the flavor and authenticity of the style. 
+I struggled to handle temperature drops when transferring to my mashtun and my hlt.
+I boiled off way more volume than planned.
+During fermentation I couldn't get the trub to dump from my new conical due to poor process in the boil.
+Kegging was messy to say the least and learning to force carb was wasteful.
 
-Some stats from the brew day:
+In the end I barely managed to produce 3 and a half gallons of beer which I did keg and serve to my family when I hosted Thanksgiving. I also brought a growler to some friends to sample, everyone enjoyed it and had good things to say about the flavor and authenticity of the style. Free beer always gets good compliments but as a Belgian ale fan I was encouraged by the feedback and impressed enough with my own product to keep going and dive deeper. 
+
+<figure class="post-image">
+  <img src="shady-malle.jpg" />
+</figure>
+
+I'm looking forward to brewing this again to see how the process improves and if I can increase efficiency. 
 

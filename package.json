@@ -4,8 +4,7 @@
   "description": "a static site blog for my homebrewing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "gulp watch & eleventy --serve --config=.eleventy.js",
+    "start": "gulp watch & eleventy --serve --watch --config=.eleventy.js",
     "build": "gulp css & eleventy --config=.eleventy.js"
   },
   "repository": {

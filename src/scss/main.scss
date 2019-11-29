@@ -8,12 +8,14 @@
 html {
   font-size: 62.5%;
   background: url('/images/hops-400.png') 100% $cream;
+  margin: 0;
 }
 
 body {
  font-family: 'Lora', serif; 
  font-size: 1.8rem;
  line-height: 1.8;
+ margin: 0;
 }
 
 img {
@@ -30,35 +32,48 @@ a {
 }
 
 .wrapper {
-  background: lighten($cream, 7%);
   max-width: 90rem;
-  margin: 0 auto;
-  padding: 4rem;
-  border-radius: 2px;
-  border: 4px solid $chocolate;
+  margin: 0 auto 20px;
 }
 
 .logo {
-  margin: 1rem 0;
-}
-
-.title {
-  font-family: 'Rye', cursive;
-  font-size: 4rem;
-  a {
-    text-decoration: none;
-    color: darken($charcoal, 10%);
-    text-shadow: 2px 0 0 $cream, 4px 2px 0 $chocolate;
-    
-    &:hover {
-      color: lighten($charcoal, 5%);
-      transition: all 1s;
-    }
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  &-image {
+   max-width: 400px;
   }
 }
 
-.logo h1, .logo h4 {
-  margin: 0;
+.navigation {
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 0 1rem ;
+    padding: 0;
+  }
+  .nav-item {
+    padding: 1rem 2rem;
+    font-size: 2.6rem;
+    letter-spacing: 2px;
+    background: rgba($cream, 0.8);
+    border: 4px solid $chocolate;
+    margin: 0 2rem 0 0;
+    
+    a {
+      color: darken($charcoal, 20%);
+      text-shadow: 1px 1px $cantelope;
+      
+      &:hover {
+        color: $charcoal;
+        transition: all 2s ease-out;
+      }
+    }
+  }
 }
 
 .intro {
@@ -74,6 +89,10 @@ a {
 }
 
 .content {
+ background: lighten($cream, 7%);
+ border-radius: 2px;
+ border: 4px solid $chocolate;
+ padding: 4rem;
  
   .post-image {
     margin: 0 0 1rem;
@@ -93,33 +112,13 @@ a {
     margin: 0 0 3rem;
   }
   
-  dl {
-    font-family: sans-serif;
-    lettter-spacing: 2px;
-    max-width: 60%;
-    color: $charcoal;
-    text-shadow: 1px 0 0 $charcoal;
-    border: 2px dotted $charcoal;
-    background: lighten($cantelope, 10%);
-    padding: 2rem;
-    
-    dt {
-      font-weight: bold;
-      margin-bottom: 0.5rem;
-    }
-    dd {
-      margin: 0 0 1rem;
-      color: lighten($gray, 40%);
-      
-    }
-  }
 }
 
-.listing {
-  li {
-    p {
-      margin-bottom: 1rem;
-    }
+.recipe {
+  h3 {
+    font-size: 2rem;
+  }
+  p {
+    margin: 0 0 0.5rem;
   }
 }
-
