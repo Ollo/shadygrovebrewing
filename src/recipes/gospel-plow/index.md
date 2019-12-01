@@ -3,7 +3,7 @@ layout: layouts/layout.njk
 title: Gospel Plow | Belgian Golden Strong Ale
 tags: recipe
 excerpt: 'My dangerously smooth and strong take on Averys salvation ale.'
-date: 2019-08-02
+date: 2019-02-08
 ---
 
 ## Gospel Plow

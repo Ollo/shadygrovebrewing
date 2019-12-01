@@ -3,7 +3,7 @@ layout: layouts/layout.njk
 title: Pearl Pearl Pearl | Kölsch
 tags: recipe
 excerpt: 'A clean light crisp ale inspired by our travels to Köln.'
-date: 2019-18-02
+date: 2019-02-18
 ---
 
 ## Pearl Pearl Pearl
