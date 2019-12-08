@@ -8,7 +8,7 @@ date: 2019-03-26
 
 ## Tennessee Stud 
 A dry, medium bodied, aromatic Rosé Brüt IPA. 
-I've experimented with more traditional versions of this style a bit and this my current preference on brewing a fun experimental version of this style.
+I've experimented with more traditional versions of this style a bit and this my current preference on brewing a fun experimental version.
 
 <section class='recipe'>
 
@@ -47,7 +47,13 @@ and boil for 60 minutes.
 
 Cold condition for at least 2 weeks to get as much clarity as possible. 
 
-I've also read about Gelatin and had it recommended but didn't have much luck personally so I typically just filter normally as part of my brewing process and let it cold condition to try and get the clarity of a champagne I then force carb and serve from a keg a bit higher at 20 PSI to get slightly more champagne like foam. 
+<figure class="post-image">
+	<img src="rose-brut-ipa.jpg" />
+	<figcaption>I love the color after fermentation before cold conditioning clears things up.</figcaption>
+</figure>
+
+#### Serving / Conditioning
+I've read and heard great things about Gelatin for this style but didn't have much luck personally so I typically just filter as part of my typical brewing process and let it cold condition for a bit longer with the goal of champagne like clarity then I then force carb and serve from a keg a bit higher at 20 PSI to get slightly more champagne like foam. 
 	
 </section>
 

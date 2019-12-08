@@ -134,6 +134,7 @@ a {
   .post-image {
     margin: 0 0 1rem;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     
@@ -142,6 +143,10 @@ a {
       max-width: 70%;
       height: auto;
       margin: 2rem auto;
+    }
+    figcaption {
+      // font-size: 0.75rem;
+      font-style: italic;
     }
   }
   
