@@ -22,8 +22,7 @@ A classic Belgian Tripel modeled after WestMalle.
 - 12 lbs 12 oz - Belgian 2 row Pilsner
 - 1 lb - Belgian Candi Sugar 5 srm - 60 minute
 
-	
-### Hops
+### Boil
 - 2oz - Styrian Goldings 3% AA - 60min
 - 0.25oz - Spalt - 60 min
 - 1.5oz - US Saaz 2.8% AA - 30min

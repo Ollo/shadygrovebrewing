@@ -27,7 +27,7 @@ A dangerously smooth but strong Belgian ale modeled after Averys sadly discontin
 - 1 lb - Belgian Candi Sugar 5 srm - 60 minute
 
 	
-### Hops
+### Boil
 - 1 oz - Sterling 7.4% AA - 60 minute
 - 1 oz - Sterling 7.4% AA - 30 minute
 - 2 oz - Styrian Goldings 12.9% AA - 0 minute

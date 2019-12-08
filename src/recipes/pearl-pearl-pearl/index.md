@@ -26,16 +26,17 @@ A clean light crisp ale inspired by our trip to Köln Germany.
 - 4 oz - CaraPils
 
 	
-### Hops
+### Boil
 - 1 oz - US Pearle 7.10% AA - 60 minute
 - 0.5 oz - Nelson Sauvin 11.6% AA - 10 minute
 - 0.5 oz - Nelson Sauvin 11.6% AA - 0 minute
 
-#### Dry Hop
-- 1 oz - Nelson Sauvin 11.6% AA - 10 days
 
 ### Yeast
 - 1 packet of Imperial Dieter (#G03)
+
+#### Dry Hop
+- 1 oz - Nelson Sauvin 11.6% AA - 10 days
 
 ---
 ### Brew Steps
