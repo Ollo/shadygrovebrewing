@@ -43,9 +43,18 @@ A friend of a friend discovered a healthy crop of unidentified hops growing and 
 ### Brew Steps
 I used a standard 60 minute single infusion mash at 152 then fly sparge at 168.
 
-For hopping I dumped the wet mystery hops into the hop spider and actually used them for first wort hopping then followed my standard process through the boil for 60 minutes. 
+For hopping I hand ruptured the wet mystery hops then dumped them into the hop spider and actually used them for first wort hopping then followed my standard process through the boil for 60 minutes. 
+
+<figure class="post-image">
+	<img src="ruptured-wild-hops.jpg" />
+</figure>
 
 The original packet of this yeast that I picked up was pretty old so after slowly ramping the temp to 75 degrees over the first few days of primary without much activity I snagged a second packet and built a starter to pitch heading into secondary. 
+
+<figure class="post-image">
+	<img src="starter.jpg" />
+</figure>
+
 
 Following the spirit of experimentation with this beer I tried using oak chips for first time as well to get some tannins and a hopefully heightened crispness in hindsight I'd use oak in this setting for far fewer days as it got a bit too pronounced.
 
