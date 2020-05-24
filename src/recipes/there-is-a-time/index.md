@@ -44,7 +44,15 @@ and boil for 60 minutes.
 Single stage fermentation at 68 - 70 for 14 days, 
 rack to keg and carbonate at 12.5 PSI
 
-	
+<figure class="post-image">
+  <img src="there-is-a-time.jpg" />
+  <figcaption>
+    I also bottled several of these with corks and cages in the thicker Belgian style bottles to make some nice treats for family at the holidays.
+  </figcaption>
+</figure>
+
+---
+
 </section>
 
 ### Recommended Listening:
