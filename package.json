@@ -4,8 +4,9 @@
   "description": "a static site blog for my homebrewing",
   "main": "index.js",
   "scripts": {
-    "start": "gulp watch & eleventy --serve --watch --config=.eleventy.js",
-    "build": "gulp css & eleventy --config=.eleventy.js"
+    "start": "ELEVENTY_ENV='development' gulp watch & eleventy --serve --watch --config=.eleventy.js",
+    "start:debug": "ELEVENTY_ENV='development' DEBUG=Eleventy* gulp watch & eleventy --serve --watch --config=.eleventy.js",
+    "build": "gulp css & ELEVENTY_ENV='production' eleventy --config=.eleventy.js"
   },
   "repository": {
     "type": "git",

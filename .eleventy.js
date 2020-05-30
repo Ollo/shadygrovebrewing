@@ -5,7 +5,8 @@ module.exports = function(config) {
     dir: {
       input: "src",
       output: "dist",
-      includes: "_includes"
+      includes: "_includes",
+      data: "_data"
     },
     passthroughFileCopy: true,
     templateFormats : [
