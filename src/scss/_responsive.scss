@@ -1,0 +1,25 @@
+// Breakpoints map
+// ======================================================
+$breakpoints: (
+  'tablet': 768px,
+  'desktop': 1025px
+) !default;
+
+// Mixin for handling media queries
+// ======================================================
+
+// Use example:
+// @include breakpoint('tablet') {
+//   font-size: 14px;
+// }
+
+@mixin breakpoint($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    @media only screen and (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  } @else {
+    @warn "`#{$breakpoint}` is not defined"
+            + "Valid breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}

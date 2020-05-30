@@ -1,13 +1,5 @@
-$charcoal: #6A6A68;
-$gray: #B2B3B5;
-
-$mauve: #E2C0AA;
-$cream: #ECE5CE;
-$chocolate: #AD734C;
-$pumpkin: #F9982F;
-$cantelope: #F4B358;
-
-$bluebird: darken(#BBDAF6, 20%);
+@import './_colors.scss';
+@import './_responsive.scss';
 
 
 @mixin imgBordered() {
@@ -60,7 +52,10 @@ a {
   justify-content: center;
   
   &-image {
-   max-width: 300px;
+   max-width: 200px;
+   @include breakpoint('desktop') {
+    max-width: 300px; 
+   }
   }
 }
 
@@ -80,8 +75,12 @@ a {
   }
   .nav-item {
     padding: 1rem 2rem;
-    font-size: 2.6rem;
-    letter-spacing: 2px;
+    font-size: 1.8rem;
+    letter-spacing: 1px;
+    @include breakpoint('desktop') {
+      font-size: 2.6rem;
+      letter-spacing: 2px;
+    }
     background: rgba($cream, 0.8);
     border: 4px solid $chocolate;
     margin: 0 2rem 0 0;
